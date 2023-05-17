@@ -1,0 +1,3 @@
+hi, this is John Doe 
+as you can see, we are testing this script to gen audios. please help to identify working or not
+how do you feel! please tell me.
