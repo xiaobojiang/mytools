@@ -51,6 +51,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
+chatgpt/test.py
+
 # Translations
 *.mo
 *.pot
